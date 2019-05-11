@@ -19,7 +19,11 @@
   "homepage": "https://github.com/DB2104/node-packages#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "config": "^3.1.0",
+    "jwt-simple": "^0.5.6",
     "moment": "^2.24.0",
-    "slug": "^1.1.0"
+    "request": "^2.88.0",
+    "slug": "^1.1.0",
+    "uuid": "^3.3.2"
   }
 }
