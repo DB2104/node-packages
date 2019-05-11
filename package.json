@@ -1,0 +1,25 @@
+{
+  "name": "node-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DB2104/node-packages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DB2104/node-packages/issues"
+  },
+  "homepage": "https://github.com/DB2104/node-packages#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "moment": "^2.24.0",
+    "slug": "^1.1.0"
+  }
+}
